@@ -9,7 +9,7 @@ Funciones: cada objeto podrá mostrar su información completa.
 Tutorial de YouDevs: https://www.youtube.com/watch?v=vAbfpTVWRRw*/
 
 class Libro{
-    //ATRIBUTOS: title, author, price, stock, id
+    //ATRIBUTOS: title, author, price, stock, id.
 #title
 #author
 #price
